@@ -1,6 +1,7 @@
 ### Alvin Zanua Putra
-### Fullstack Software Developer 
-### Electrical Programming
+
+#### ->> Electrical Programming (main)
+#### ->> Fullstack Software Developer (secondary)
 
 [![LinkedIn badge](https://img.shields.io/badge/AlvinZanuaPutra-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvin-zanua-putra-34a758288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FAC151.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/znualvin_/)
