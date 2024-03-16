@@ -37,3 +37,4 @@ https://alvinzanuaputra.github.io
    [![Instagram](https://img.shields.io/badge/Instagram-logo=Instagram&logoWidth=20)](https://www.instagram.com/its.anargya_/)
  
 
+# THANK YOU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
