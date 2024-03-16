@@ -1,4 +1,4 @@
-### Alvin Zanua Putra
+### --- Alvin Zanua Putra ---
 
 [![LinkedIn badge](https://img.shields.io/badge/AlvinZanuaPutra-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvin-zanua-putra-34a758288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FAC151.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/znualvin_/)
@@ -14,4 +14,5 @@
 ![alvinzanuaputra's Public Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinzanuaputra&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📈 For Any More Language Stats 
-🖥️ (https://alvinzanuaputra.github.io)
+🖥️ Link My Portfolio :
+https://alvinzanuaputra.github.io
