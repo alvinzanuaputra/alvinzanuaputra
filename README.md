@@ -1,6 +1,6 @@
 ### Alvin Zanua Putra
 
-#### ->> 🔌💻 Electrical Engineering (main)
+#### ->> 🔌💻 Electrical Wiring and Programming (main)
 #### ->>  🖥️🖥️ Fullstack Software Developer (secondary)
 
 [![LinkedIn badge](https://img.shields.io/badge/AlvinZanuaPutra-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvin-zanua-putra-34a758288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -27,7 +27,7 @@
 🖥️ Link My Portfolio :
 https://alvinzanuaputra.github.io
 
-## 📈 About My Community Electrical Engineering 
+## 📈 About My Community Electrical :
 #### 🏎️ My Passion also is in Electrical Safety And Programming 
  
 #### 🏎 Anargya ITS EV TEAM 
