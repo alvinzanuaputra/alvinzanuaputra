@@ -1,4 +1,4 @@
-### Alvin Zanua Putra
+### Alvin Zanua Putra (Freelancer)
 
 #### ->> 🔌💻 Electrical Wiring and Programming (main)
 #### ->>  🖥️🖥️ Software Developer (secondary)
