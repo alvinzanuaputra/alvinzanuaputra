@@ -23,7 +23,7 @@
 ## 📈 My GitHub Stats For Public Repositories
 ![alvinzanuaputra's Public Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinzanuaputra&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-## 📈 For Any More Language Stats 
+## 📈 For Private Repositories In : 
 🖥️ Link My Portfolio :
 https://alvinzanuaputra.github.io
 
