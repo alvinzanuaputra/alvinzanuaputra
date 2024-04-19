@@ -25,16 +25,6 @@
 
 ## 📈 For Private Repositories In : 
 🖥️ Link My Portfolio :
-https://alvinzanuaputra.github.io
-
-## 📈 About My Community Electrical :
-#### 🏎️ My Passion also is in Electrical Safety And Programming 
- 
-#### 🏎 Anargya ITS EV TEAM 
- 
-#### Follow Instagram Anargya ITS : 
- 
-   [![Instagram](https://img.shields.io/badge/Instagram-logo=Instagram&logoWidth=20)](https://www.instagram.com/its.anargya_/)
- 
+https://alvinzanuaputraa.vercel.app
 
 # THANK YOU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
