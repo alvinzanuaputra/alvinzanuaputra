@@ -47,7 +47,7 @@
 </div>
 
 <div style="display: flex;">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinzanuaputra&theme=tokyonight" alt="alvinzanuaputra" width="350" height="150" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinzanuaputra&theme=tokyonight" alt="alvinzanuaputra" width="274" height="150" />
 </div>
 
 <br>
