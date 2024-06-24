@@ -43,11 +43,13 @@
 ## 📈 My GitHub Stats For Public Repositories :
 
 <div style="display: flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinzanuaputra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alvinzanuaputra" width="274" height="150"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinzanuaputra&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alvinzanuaputra" height="180em"/>
 </div>
 
-<div style="display: flex;">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinzanuaputra&theme=tokyonight" alt="alvinzanuaputra" width="390" height="150" />
-</div>
+<p align="left">
+<a href="https://github.com/alvinzanuaputra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvinzanuaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 <br>
