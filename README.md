@@ -9,7 +9,7 @@
 
 ---
 
-### You can view my personal website at: [zanualvin.vercel.app](https://zanualvin.vercel.app)
+### You can view my personal website at: [alvinzanuaputra.vercel.app](https://alvinzanuaputra.vercel.app)
 
 ## 💻 Technologies Used
 
