@@ -2,7 +2,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinzanuaputra&show_icons=true&locale=en&layout=compact&theme=algolia" height="180em"/>
 </div>
 
-<br>
 
 <p align="left">
 <a href="https://github.com/alvinzanuaputra">
