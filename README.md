@@ -11,10 +11,10 @@
 ---
 
 ## 🔧 Tech Stack
-- 💻 **Backend:** Laravel, Node.js  
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
+- 💻 **Backend:** Express JS, Fastify JS, Laravel, Symfony
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React JS  
 - 🛢️ **Database:** PostgreSQL, MySQL  
-- 🛠 **Tools:** Git, Vercel, Supabase  
+- 🛠 **Tools:** Git, Vercel, Supabase, Niagahoster
 
 ---
 
