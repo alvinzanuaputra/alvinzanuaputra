@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alvin Zanuar Putra!
 
-🚀 Passionate about web development, especially in Laravel, JavaScript, and PostgreSQL. I enjoy building dynamic applications and exploring new technologies.
+ #### 🚀 A Passionate Fullstack Web Developer with Next.js, React.js, Tailwind CSS, PostgreSQL, Prisma ORM, Typescript, MySQL, PostgreSQL. I enjoy building dynamic applications and exploring new technologies.
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
