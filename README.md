@@ -14,6 +14,14 @@
 
 ###
 
+<b>Portfolio</b>
+
+<a href="https://alvinzanuaputra.site" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=0A66C2&logo=googlechrome&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" /> 
+  </a>
+
+###
+
 <b>Languages</b>
 
 <div align="left">
@@ -96,9 +104,6 @@
 ###
 
 <div align="left">
-  <a href="https://alvinzanuaputra.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
   <a href="https://github.com/alvinzanuaputra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
