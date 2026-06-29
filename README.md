@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/JOk2p3bIaCUAAAAC/cat-typing.gif" alt="cat typing gif" />
+
+<img align="right" height="150" src="https://media1.tenor.com/m/XJPpIJw-YLcAAAAC/naruto-fox.gif" alt="funny naruto gif" />
 
 ###
 
