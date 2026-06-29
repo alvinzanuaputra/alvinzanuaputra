@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alvin Zanua Putra and I'm a Software Developer & Game Developer, Informatics Engineering Student at Institut Teknologi Sepuluh Nopember — based in Jombang, East Java 🇮🇩</h2>
+<h2 align="left">Hi 👋! My name is Alvin Zanua Putra and I'm a Informatics Engineering Student at Institut Teknologi Sepuluh Nopember</h2>
 
 ###
 
