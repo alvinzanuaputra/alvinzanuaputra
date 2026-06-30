@@ -16,8 +16,8 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alvinzanuaputra&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-<img src="https://github-readme-stats-fast.vercel.app/api?username=alvinzanuaputra&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alvinzanuaputra&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=alvinzanuaputra&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
 
 </div>
 
