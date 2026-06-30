@@ -16,8 +16,8 @@
 
 <div align="left">
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=alvinzanuaputra&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alvinzanuaputra&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alvinzanuaputra&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=alvinzanuaputra&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
 
 </div>
 
@@ -36,7 +36,7 @@
 </td>
 <td valign="top">
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alvinzanuaputra&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alvinzanuaputra&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
 
 </td>
 </tr>
